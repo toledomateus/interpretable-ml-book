@@ -1,6 +1,6 @@
 ---
-title: "Interpretable Machine Learning"
-subtitle: "A Guide for Making Black Box Models Explainable"
+title: "Machine Learning Interpretável"
+subtitle: "Um Guia para Explicar Modelos Caixa Preta (black box models)"
 author: "Christoph Molnar"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
@@ -9,7 +9,7 @@ link-citations: yes
 colorlinks: yes
 fontsize: 10pt
 site: bookdown::bookdown_site
-description: "Machine learning algorithms usually operate as black boxes and it is unclear how they derived a certain decision. This book is a guide for practitioners to make machine learning decisions interpretable."
+description: "Algoritmos de macahine learning geralmente operam como caixas-pretas e não é claro como eles chegaram a uma decisão específica. Este livro é um guia para praticantes tornarem decisões de aprendizado de máquina interpretáveis"
 always_allow_html: yes
 ---
 
